@@ -1,0 +1,15 @@
+name: FSRPG
+main: com.forgestorm.rpg.RPG
+version: 0.1
+description: ForgeStorm RPG
+author: unenergizer
+website: http://www.forgestorm.com/
+commands:
+  item:
+  monster:
+  mount:
+  playermenu:
+  realm:
+  roll:
+  spawner:
+  toggle:
